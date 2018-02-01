@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geekulcha Activities</string>
+    <string name="action_settings">About</string>
+    <string name="lorem2"> Hackathon is an annual event that takes places for Africa developer ecosystem.
+        It’s a 42 hours challenge that gathers different
+        students under one roof so they can solves challenges using technology.
+ </string>
+    <string name="lorem"> AI Masterclass is a program of five workshops and three live
+        sessions about Artificial
+        Intelligence brought to you by some of the best AI experts at Facebook.
+    </string>
+    <string name="lorem3"> An event that takes places for Africa developer ecosystem.
+        It’s a 42 hours challenge that gathers different
+        students under one roof so they can solves challenges using technology.
+        Facilitated by Geekulcha on behalf of the GIZ in Johannesburg.
+ </string>
+
+    <string name="lorem4">
+        Cloud OnBoard is a free, full-day training event, conveniently hosted in a city near you. Our instructors lead in-depth technical presentations and demonstrations to help you learn industry best practices and tips.
+        Google Cloud Platform training accelerates your understanding of and ability to use the Google Cloud Platform services.
+    </string>
+
+
+    "\n"<string name="lorem5">
+      The Science Forum South Africa 2017 will take place during 7 – 8 December at the CSIR International Convention Centre, Pretoria, South Africa.
+The Science Forum South Africa is inspired by events such as ESOF, AAAS, and the Japan Agora. "\n"
+
+
+The key objectives of the Forum remain:"\n"
+
+"\n"To create a platform for a vibrant debate on the role of science, technology and innovation in society;"\n"
+"\n"To promote international science, technology and innovation partnerships; and "\n"
+To create a platform for key science, technology and innovation actors, including senior government leaders, academics, scientists, industry, civil society, and students to interact.
+    </string>
+
+
+    <string name="lorem6">
+        Data Science for Impact and Decision Enablement (DSIDE)
+DSIDE recruits vacation students over the period of June/July (Phase 1 - lasting 4 weeks)
+        and continuing December/January (Phase 2 - lasting 8 weeks)."\n"
+
+"\n" The programme is hosted at the CSIR. The aim of the programme is to support capacity building in the ever growing field of data science by scheduling recruits to participate
+        in mentor-guided and learn-by-doing problem solving of real-world needs as presented by different stakeholders.
+    </string>
+
+
+</resources>
